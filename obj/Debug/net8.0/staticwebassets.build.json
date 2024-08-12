@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kofGLz4vXC6Nvi5jBRX0aAjVYZKNMhJOUQ9lEDMhWJI=",
+  "Source": "AppointmentApprover",
+  "BasePath": "_content/AppointmentApprover",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

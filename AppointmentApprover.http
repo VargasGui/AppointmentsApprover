@@ -1,0 +1,6 @@
+@AppointmentApprover_HostAddress = http://localhost:5054
+
+GET {{AppointmentApprover_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
